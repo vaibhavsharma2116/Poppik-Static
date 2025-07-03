@@ -1,0 +1,37 @@
+As per today's task, I have completed the following updates on the website:
+
+1. Banner Integration:
+
+Two sliding banners, as attached in the email, have been successfully integrated on the homepage. The banners are responsive and optimized for both desktop and mobile view.
+
+
+
+2. About Section Content Updated:
+The new content for the “About” section has been added as per the shared details:
+
+---
+
+Welcome to Poppik – Beauty That Empowers
+
+At Poppik, we believe beauty is more than skin deep. We're a modern cosmetics and personal care brand offering high-performance color cosmetics, skincare essentials, and premium bath products designed for the bold, confident, and conscious consumer.
+
+Founded by industry experts with a deep passion for beauty and innovation:
+
+Jay Gupta brings over 14 years of experience in sales strategy, marketing, and brand development. He is also a proud Mentor of Change at NITI Aayog, supporting entrepreneurship and innovation across India.
+
+Ravinder Singh has 27 years of rich experience in sales leadership, having worked with top brands like MyGlamm, Himalaya, and Britannia. He also serves as a Senior Consultant to Khadi India, promoting indigenous and sustainable beauty solutions.
+
+Together, they bring vision, experience, and excellence to create a brand that truly understands Indian beauty.
+
+Poppik – Powered by Passion. Driven by Expertise. Inspired by You.
+
+
+3. Mission Section Added:
+The following mission statement has been added to the relevant section of the website:
+
+
+---
+
+Mission
+
+At Poppik, our mission is to offer a full range of innovative, safe, and high-performance beauty products thoughtfully tailored to the needs of Indian consumers. We aim to bridge the gap between modern beauty trends and traditional Indian values by infusing our formulations with time-tested ingredients and cultural relevance. Our products are designed to empower self-expression through color, care, and confidence, helping individuals feel seen, celebrated, and beautiful in their own skin. At the heart of our mission lies a commitment to sustainability and ethics — by supporting local manufacturing, creating employment opportunities, and promoting responsible beauty, we strive to make a meaningful impact on both people and the planet.
