@@ -21,7 +21,7 @@ export default function BannerCarousel() {
 
   return (
     <section id="home" className="relative mt-20 overflow-hidden">
-      <div className="carousel-container relative h-[500px] md:h-[600px]">
+      <div className="carousel-container relative h-[400px] md:h-[500px] lg:h-[600px]">
         {/* Banner 1: Coming Soon */}
         <div 
           className={`absolute inset-0 w-full h-full transition-all duration-1000 ease-in-out ${
@@ -32,7 +32,7 @@ export default function BannerCarousel() {
             <img 
               src={banner1} 
               alt="Poppik Coming Soon Banner" 
-              className="w-full h-full object-cover"
+              className="w-full h-full object-fill"
             />
             <div className="absolute inset-0 bg-black bg-opacity-10"></div>
             
@@ -51,7 +51,7 @@ export default function BannerCarousel() {
             <img 
               src={banner2} 
               alt="Poppik Colour Collection Banner" 
-              className="w-full h-full object-cover"
+              className="w-full h-full object-fill"
             />
             <div className="absolute inset-0 bg-black bg-opacity-10"></div>
             

@@ -7,7 +7,7 @@ export default function ContactSection() {
       <div className="absolute top-0 right-0 w-40 h-40 bg-pink-100 rounded-full opacity-50 translate-x-20 -translate-y-20"></div>
       <div className="absolute bottom-0 left-0 w-32 h-32 bg-purple-100 rounded-full opacity-50 -translate-x-16 translate-y-16"></div>
       
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
+      <div className="max-w-12xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="text-center mb-20 animate-fade-in">
           <div className="flex items-center justify-center mb-6">
             <MessageCircle className="text-pink-500 w-12 h-12 mr-4" />

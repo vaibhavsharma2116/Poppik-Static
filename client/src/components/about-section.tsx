@@ -7,7 +7,7 @@ export default function AboutSection() {
       <div className="absolute top-0 left-0 w-32 h-32 bg-pink-100 rounded-full opacity-50 -translate-x-16 -translate-y-16"></div>
       <div className="absolute bottom-0 right-0 w-40 h-40 bg-purple-100 rounded-full opacity-50 translate-x-20 translate-y-20"></div>
       
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
+      <div className="max-w-12xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="text-center mb-20 animate-fade-in">
           <h2 className="text-5xl md:text-6xl font-playfair font-bold text-gray-900 mb-6">
             Welcome to <span className="bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">Poppik</span>
