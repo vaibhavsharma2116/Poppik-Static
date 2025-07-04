@@ -59,8 +59,8 @@ export default function ContactSection() {
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Email Us</h3>
               <p className="text-gray-600 mb-6">Send us your queries</p>
-              <a href="mailto:info@poppik.in" className="text-lg font-semibold text-purple-500 hover:text-pink-600 transition-colors">
-                ✉️ info@poppik.in
+              <a href="mailto:operations@poppik.in" className="text-lg font-semibold text-purple-500 hover:text-pink-600 transition-colors">
+                ✉️ operations@poppik.in
               </a>
             </div>
           </div>
@@ -88,22 +88,36 @@ export default function ContactSection() {
             <h3 className="text-4xl font-playfair font-bold mb-6">Stay Connected</h3>
             <p className="text-xl mb-10 opacity-95">Follow our journey as we revolutionize beauty in India</p>
             <div className="flex justify-center space-x-6">
-              <a href="#" className="group w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300 hover:scale-110 backdrop-blur-sm border border-white border-opacity-20">
+              <a 
+                href="https://www.instagram.com/poppik_lifestyle?utm_source=qr&igsh=M3BidG9jbmJtenZ4" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="group w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300 hover:scale-110 backdrop-blur-sm border border-white border-opacity-20"
+              >
                 <Instagram className="text-white w-8 h-8 group-hover:scale-110 transition-transform" />
               </a>
-              <a href="#" className="group w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300 hover:scale-110 backdrop-blur-sm border border-white border-opacity-20">
+              <a 
+                href="#" 
+                className="group w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300 hover:scale-110 backdrop-blur-sm border border-white border-opacity-20"
+              >
                 <Facebook className="text-white w-8 h-8 group-hover:scale-110 transition-transform" />
               </a>
-              <a href="#" className="group w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300 hover:scale-110 backdrop-blur-sm border border-white border-opacity-20">
+              <a 
+                href="#" 
+                className="group w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300 hover:scale-110 backdrop-blur-sm border border-white border-opacity-20"
+              >
                 <Twitter className="text-white w-8 h-8 group-hover:scale-110 transition-transform" />
               </a>
-              <a href="#" className="group w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300 hover:scale-110 backdrop-blur-sm border border-white border-opacity-20">
+              <a 
+                href="#" 
+                className="group w-16 h-16 bg-white bg-opacity-20 rounded-full flex items-center justify-center hover:bg-opacity-30 transition-all duration-300 hover:scale-110 backdrop-blur-sm border border-white border-opacity-20"
+              >
                 <Linkedin className="text-white w-8 h-8 group-hover:scale-110 transition-transform" />
               </a>
             </div>
             <div className="mt-10 text-center">
-              <p className="text-lg opacity-90">📧 For partnerships: partnerships@poppik.in</p>
-              <p className="text-lg opacity-90">📢 For media inquiries: media@poppik.in</p>
+              <p className="text-lg opacity-90">📧 For partnerships: operations@poppik.in</p>
+              <p className="text-lg opacity-90">📢 For media inquiries: operations@poppik.in</p>
             </div>
           </div>
         </div>

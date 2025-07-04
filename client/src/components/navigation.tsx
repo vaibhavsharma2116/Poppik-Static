@@ -1,9 +1,10 @@
 import { useState, useEffect } from "react";
 import { Menu, X, Sparkles } from "lucide-react";
-
+import logo from "@assets/logo.png"; // Adjust the path as necessary
 export default function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
+  
 
   useEffect(() => {
     const handleScroll = () => {
@@ -33,10 +34,13 @@ export default function Navigation() {
           <div className="flex items-center">
             <div className="flex-shrink-0 group cursor-pointer" onClick={() => scrollToSection('home')}>
               <div className="flex items-center">
-                <Sparkles className="text-pink-500 w-8 h-8 mr-2 group-hover:animate-spin" />
-                <span className="text-3xl font-playfair font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent group-hover:scale-105 transition-transform duration-300">
-                  POPPIK
-                </span>
+               <img 
+  src={logo} 
+  alt="POPPIK Logo" 
+  className="h-12 w-auto group-hover:scale-105 transition-transform duration-300"
+   style={{ width: 'auto', height: '120px' }}
+  
+/>
               </div>
             </div>
           </div>

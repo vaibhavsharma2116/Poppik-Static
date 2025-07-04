@@ -19,16 +19,25 @@ export default function AboutSection() {
 
             <div className="grid md:grid-cols-3 gap-6 mb-12">
               <div className="text-center p-6 bg-gradient-to-br from-pink-50 to-purple-50 rounded-xl">
-                <Palette className="w-10 h-10 text-pink-500 mx-auto mb-3" />
+                <div className="w-16 h-16 mx-auto mb-3 bg-pink-100 rounded-full flex items-center justify-center">
+                  <span className="text-3xl">💄</span>
+                </div>
                 <h4 className="font-semibold text-gray-900">Color Cosmetics</h4>
+                {/* <p className="text-sm text-gray-600 mt-2">Lipsticks & Color Products</p> */}
               </div>
               <div className="text-center p-6 bg-gradient-to-br from-teal-50 to-blue-50 rounded-xl">
-                <Leaf className="w-10 h-10 text-teal-500 mx-auto mb-3" />
+                <div className="w-16 h-16 mx-auto mb-3 bg-teal-100 rounded-full flex items-center justify-center">
+                  <span className="text-3xl">🧴</span>
+                </div>
                 <h4 className="font-semibold text-gray-900">Skincare Essentials</h4>
+                {/* <p className="text-sm text-gray-600 mt-2">Face Wash & Skincare</p> */}
               </div>
               <div className="text-center p-6 bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl">
-                <Waves className="w-10 h-10 text-blue-500 mx-auto mb-3" />
+                <div className="w-16 h-16 mx-auto mb-3 bg-blue-100 rounded-full flex items-center justify-center">
+                  <span className="text-3xl">🧼</span>
+                </div>
                 <h4 className="font-semibold text-gray-900">Bath Products</h4>
+                {/* <p className="text-sm text-gray-600 mt-2">Soaps & Bath Care</p> */}
               </div>
             </div>
 
